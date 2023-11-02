@@ -9,18 +9,6 @@
             <Etage>
                 <EtageNummer>1</EtageNummer>
                 <EtageName>erster Stock</EtageName>
-                <Stationen>
-                    <Station>
-                        <StationName>Station 1</StationName>
-                        <StationTelefon>06948/14587</StationTelefon>
-                        <StationBeschreibung>Station 1 liegt auf der ersten Etage. Hier werderden folgende medizinische Leistungen durchgeführt: ...</StationBeschreibung>
-                    </Station>
-                    <Station>
-                        <StationName>Station 12</StationName>
-                        <StationTelefon>06948/0075</StationTelefon>
-                        <StationBeschreibung>Beschreibungstext von Station 12 steht hier...</StationBeschreibung>
-                    </Station>
-                </Stationen>
             </Etage>
             <Etage>
                 <EtageNummer>2</EtageNummer>
@@ -45,40 +33,6 @@
         <GebauedeNummer>15</GebauedeNummer>
         <GebauedeName>ABC</GebauedeName>
         <GebauedeBeschreibung>Dies ist der Berschreibungstext zu Gebaude 15.</GebauedeBeschreibung>
-        <Etagen>
-            <Etage>
-                <EtageNummer>0</EtageNummer>
-                <EtageName>Erdgeschoss</EtageName>
-                <Stationen>
-                    <Station>
-                        <StationName>Station 7</StationName>
-                        <StationTelefon>06948/13337</StationTelefon>
-                        <StationBeschreibung>Station 7 befindet sich im Erdgeschoss. Hier werderden folgende medizinische Leistungen durchgeführt: ...</StationBeschreibung>
-                    </Station>
-                    <Station>
-                        <StationName>Station 4</StationName>
-                        <StationTelefon>06948/9975</StationTelefon>
-                        <StationBeschreibung>Beschreibungstext von Station 4 steht hier...</StationBeschreibung>
-                    </Station>
-                </Stationen>
-            </Etage>
-            <Etage>
-                <EtageNummer>1</EtageNummer>
-                <EtageName>erster Stock</EtageName>
-                <Stationen>
-                    <Station>
-                        <StationName>Station 9</StationName>
-                        <StationTelefon>06948/22222</StationTelefon>
-                        <StationBeschreibung>Station 9. Hier werderden folgende medizinische Leistungen durchgeführt: ...</StationBeschreibung>
-                    </Station>
-                    <Station>
-                        <StationName>Station 33</StationName>
-                        <StationTelefon>06948/3636363</StationTelefon>
-                        <StationBeschreibung>Beschreibungstext von Station 33 steht hier...</StationBeschreibung>
-                    </Station>
-                </Stationen>
-            </Etage>
-        </Etagen>
     </Gebauede> 
 
     <Gebauede>
