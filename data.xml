@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <query>
+    <Info>
+        <InfoTitle>Info</InfoTitle>
+        <InfoNews>Das muss nach unten</InfoNews>
+    </Info>
+
+    <Info>
+        <InfoTitle></InfoTitle>
+        <InfoNews></InfoNews>
+    </Info>
+
+    <News>
+        <NewsTitle>Hinweis</NewsTitle>
+        <NewsNews></NewsNews>
+    </News>
+
+    <News>
+        <NewsTitle></NewsTitle>
+        <NewsNews></NewsNews>
+    </News>
+
+    <Info>
+        <InfoTitle>Info</InfoTitle>
+        <InfoNews>Hier finden Sie den Gebäudeplan</InfoNews>
+    </Info>
 
     <Gebauede>
         <GebauedeNummer>1</GebauedeNummer>
